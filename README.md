@@ -1,5 +1,5 @@
 # ISEL - Linguagens e Ambientes de Execução
-### LEIC43D - Verão de 2022/2023
+### LEIC42D - Verão de 2022/2023
 
 **Docente:** Luís Falcão, gabinete F.0.21
 
