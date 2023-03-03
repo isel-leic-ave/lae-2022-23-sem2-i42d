@@ -1,0 +1,13 @@
+Compiled from "HelloWorld.kt"
+public final class HelloWorldKt {
+  public static final void main(java.lang.String[]);
+    Code:
+       0: aload_0
+       1: ldc           #9                  // String args
+       3: invokestatic  #15                 // Method kotlin/jvm/internal/Intrinsics.checkNotNullParameter:(Ljava/lang/Object;Ljava/lang/String;)V
+       6: ldc           #17                 // String Glorioso SLB
+       8: getstatic     #23                 // Field java/lang/System.out:Ljava/io/PrintStream;
+      11: swap
+      12: invokevirtual #29                 // Method java/io/PrintStream.println:(Ljava/lang/Object;)V
+      15: return
+}
