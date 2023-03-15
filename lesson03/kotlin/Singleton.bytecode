@@ -1,0 +1,5 @@
+Compiled from "Singleton.kt"
+public final class Singleton {
+  public static final Singleton INSTANCE;
+  static {};
+}
